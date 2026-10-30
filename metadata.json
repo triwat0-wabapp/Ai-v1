@@ -1,0 +1,6 @@
+{
+  "name": "CineFlow AI - เครื่องมือตัดต่อหนัง & วิดีโอ 4K",
+  "description": "เว็บตัดต่อหนังด้วย AI ครบวงจร ตัดต่อวิดีโอ สร้างซับไตเติ้ลอัตโนมัติ ปรับโทนสีภาพยนตร์ และส่งออกไฟล์คุณภาพสูงระดับ 4K สำหรับโซเชียลมีเดีย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
